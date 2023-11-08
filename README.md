@@ -5,11 +5,7 @@ In this research, I have given a brief overview of advanced topics in Python and
 in-depth knowledge on various topics and the purpose of this research is to collect topics in one place to provide the
 reader with a mental framework. In this article, I have used very simple examples to explain the topics easily.
 Naturally, studying and examining more and more practical examples will help a lot to understand each topic. I hope
-reading this article is useful for you. (**Hamid Asgari**)
-
-I am grateful to all my friends who have guided me in writing this article:
-__Alireza Amouzadeh__ , __Zahra Rezaei__, __Shokooh Rigi__, __Saharnaz Rashidi__, __Ali Emamalinejad__
-, __Malihe Sheidaiefar__, __Ali Lavasani__, __Fatemeh Pasandideh__
+reading this article is useful for you.
 
 <!-- TOC -->
   * [Introduction](#introduction)
